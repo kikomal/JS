@@ -25,6 +25,6 @@ btnRoll.addEventListener("click", function () {
     //add the value of score in total
     currentScore += dice;
   } else {
-    //switch the player
+    //switch the players
   }
 });
